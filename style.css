@@ -1,0 +1,26 @@
+.paragraph-1 {
+    background-color: lightgreen;
+    color: white;
+    font-size: 34px;
+}
+
+.paragraph-2 {
+    border: 20px groove yellow;
+    border-radius: 7px;
+    fonr-size: 20px;
+    margin-top: 30px
+    margin-bottom: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 45px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.paragraph-3 {
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+    text-shadow: 1px 1px 2px green;
+}
